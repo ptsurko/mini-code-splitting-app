@@ -1,0 +1,24 @@
+.app {
+  background-color: #424242;
+}
+
+.app-header {
+  align-items: center;
+  background-color: #222;
+  color: white;
+  display: flex;
+  padding: 10px 20px;
+}
+
+.app-content {
+  display: flex;
+}
+
+.app-nav {
+  flex: 0 0 300px;
+}
+
+.app-main {
+  display: flex;
+  flex-direction: row;
+}

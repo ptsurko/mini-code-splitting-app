@@ -1,0 +1,17 @@
+Code splitting:
+ - https://tylermcginnis.com/react-router-code-splitting/
+
+Prebiuilt libraries 
+ - https://stackoverflow.com/questions/35016229/how-to-config-minified-reactreactdom-with-webpack
+ - https://stackoverflow.com/questions/36722210/webpack-how-to-use-prebuilt-version-of-react-and-other-libraries
+
+TOREAD:
+ - https://webpack.js.org/concepts/manifest/
+
+
+
+ - https://webpack.js.org/guides/production/ 
+
+
+Source maps for development:
+  https://github.com/lerna/lerna/issues/1156
